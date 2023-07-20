@@ -1,17 +1,4 @@
 
-/*
- * Class: CMSC140 CRN XXXXX
- * Instructor: Ara Kachiantz
- * Project 2
- * Computer/Platform/Compiler: Windows
- * Description: A measurament converter with a menu interface. Converts celsius to fahreheit.
- * Due Date: 07/03/2022
- * I pledge that I have completed the programming assignment independently.
-   I have not copied the code from a student or any source.
-   I have not given my code to any student.
-   Print your Full Name here: Rodrigo Seer
-*/
-
 #include <iostream>
 #include <iomanip>
 #include <string>
@@ -23,8 +10,8 @@ int main()
 	//general variables
 	string countryName;
 	int menuChoice;
-	const string PROGRAMMER = "Rodrigo Seer";
-	const string PROJECT_NAME = "CMSC140 Common Project 2";
+	const string PROGRAMMER = "RSeer";
+	const string PROJECT_NAME = "Common Project 2";
 	const string DUE_DATE = "Due date: 07/03/2022";
 
 	//temperature formulas
