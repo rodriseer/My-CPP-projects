@@ -1,17 +1,4 @@
-/*
- * Class: CMSC140 CRN XXXX
- * Instructor:
- * Project 3
- * Computer/Platform/Compiler: Windows, Visual Studios
- * Description: write a program that calculates the occupancy rate
-   and the total hotel income for one night and displays this
-   information as well as some other information described below.
- * Due Date: 07/17/2022
- * I pledge that I have completed the programming assignment independently.
-   I have not copied the code from a student or any source.
-   I have not given my code to any student.
-   Print your Full Name here: Rodrigo Seer
-*/
+
 
 #include <iostream>
 #include <string>
@@ -69,7 +56,7 @@ int main()
 	double leastFloor = 0;
 
 	//variables to hold name, data, etc
-	const string PROGRAMMER = "Rodrigo Seer";
+	const string PROGRAMMER = "RSeer";
 	const string DUE = "07/17/2022";
 
 
@@ -195,7 +182,7 @@ int main()
 	cout << "\n";
 	cout << "Thank you for testing my program!" << "\n";
 	cout << "PROGRAMMER " << PROGRAMMER << "\n";
-	cout << "CMSC 140 PROJECT 3" << "\n";
+	cout << "PROJECT 3" << "\n";
 	cout << DUE << "\n";
 
 	return 0;
