@@ -1,15 +1,3 @@
-/*
- * Class: CMSC140 CRN XXXX
- * Instructor: Ara Kachiantz
- * Project 4
- * Computer/Platform/Compiler: Windows, Visual Studios
- * Description: write a rporgram that saves data in a text file regarding employee absences
- * Due Date: 07/31/2022
- * I pledge that I have completed the programming assignment independently.
-   I have not copied the code from a student or any source.
-   I have not given my code to any student.
-   Print your Full Name here: Rodrigo Seer
-*/
 
 #include <iostream>
 #include <fstream>
